@@ -1,0 +1,58 @@
+---New tasks on 2-14/13-22
+remove blog section
+resize cards
+remove logo on the home screen
+remove account screen items 
+adding splash screen
+3 splash screen which was coming only 1 time when we install 
+white page issue figure out 
+
+---Task list 2-15-22 
+card page to account page if not login 
+password rest is working 
+Current password, New password & Repeat password Eye button working together. 
+signup screen Eye button working together. 
+Removed message button on products page
+coupon page hexcode issue 
+hexcode issue  on icon onpress
+products Name Text size too small on product page
+phone number on signup
+
+
+---react-native project 
+fix npm to yarn issue 
+given build 
+change app logo and link, app name  
+updating menu on botton screen
+splash screen
+updating api 
+
+---Task list 2-16-22 and 17
+change icon 
+update splash screen
+change logo on homepage
+change arrow to ios style on account
+change arrow to ios style on homepage
+change arrow to ios style on sub categories
+removen free details page
+
+---Task list 2-18-22
+update splash video 
+add log on homepage
+remove filter 
+updating home page navigation bar
+
+--charges
+1000 for old tasks on flutter 
+
+balance = 700 + 500 - 1000= 200  
+
+Tasks on 2-14/13-22 = 2K
+Task list 2-15-22 =3K to 5k
+16/17 = 500
+18 = 1k
+react-native project = 1K
+
+////////////////
+300 balance 
+10.12 to 12.20 on 3/2/22 = 2.8 hrs = 800 to 1000

@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "193254005531",
+    "firebase_url": "https://cbt-all-default-rtdb.firebaseio.com",
+    "project_id": "cbt-all",
+    "storage_bucket": "cbt-all.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193254005531:android:b56f2e6c26ada73e1ad1be",
+        "android_client_info": {
+          "package_name": "com.codebluetech.olxclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193254005531-cq3ikrlm6jtgi8i9aakgsujn4u864t7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codebluetech.olxclone",
+            "certificate_hash": "540da2f217a255e30c7c4f16d9ddebca7d9de92d"
+          }
+        },
+        {
+          "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNjfLNRGrYoIlhmY5fMaPcyG1svQyCrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193254005531:android:66b18a32d3a432091ad1be",
+        "android_client_info": {
+          "package_name": "com.codebluetech.onlineteerbazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193254005531-rp83cbmlcbhsh18ckgnm5fku8ejcqjid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codebluetech.onlineteerbazar",
+            "certificate_hash": "540da2f217a255e30c7c4f16d9ddebca7d9de92d"
+          }
+        },
+        {
+          "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNjfLNRGrYoIlhmY5fMaPcyG1svQyCrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193254005531:android:39c133141c3b95b01ad1be",
+        "android_client_info": {
+          "package_name": "com.codebluetech.skylinekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193254005531-3g1hac7hl82mfbh2ai076tr744nge8jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codebluetech.skylinekart",
+            "certificate_hash": "540da2f217a255e30c7c4f16d9ddebca7d9de92d"
+          }
+        },
+        {
+          "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNjfLNRGrYoIlhmY5fMaPcyG1svQyCrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193254005531:android:9451337c7fad22851ad1be",
+        "android_client_info": {
+          "package_name": "in.codebluetech.cbtquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193254005531-4iciq011d1p8magccsv9tubj04t01iqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.codebluetech.cbtquiz",
+            "certificate_hash": "48cf0b83007e79655fa3df71c87cd6415ea4624d"
+          }
+        },
+        {
+          "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNjfLNRGrYoIlhmY5fMaPcyG1svQyCrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193254005531-cl9t6rm974goe1q86dv8fpa0bsg8unbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
